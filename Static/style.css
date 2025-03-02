@@ -11953,3 +11953,13 @@ body {
 .ca{
     border-radius: 16px;
 }
+
+.te{
+    color: #772432 !important;
+    font-weight: bold ;
+}
+
+.tex{
+    text-color: #004165;
+    font-size: 1.5em;
+}
